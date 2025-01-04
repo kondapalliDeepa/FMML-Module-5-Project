@@ -6,3 +6,6 @@ Algorithms. The intent is to explain and teach the pros and cons of learning
 algorithms like Decision Trees, Random Forests, Support Vector Machines, et 
 cetera. This repo is a part of the course offered by iHub, IIIT Hyderabad : 
 Foundations of Modern Machine Learning.
+
+https://colab.research.google.com/drive/1whDLTZ8MlEoKvoJeU633S-o9k5DUIYQU
+
